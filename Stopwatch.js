@@ -22,7 +22,7 @@ let startbtn=document.getElementById("Start");
         if(!flag){
         clear=setInterval(timer,10); 
         flag=true;
-        document.querySelector("#go").innerHTML="Stop Now Bitch";
+        document.querySelector("#go").innerHTML="Stop When You want";
 
         }
     });
